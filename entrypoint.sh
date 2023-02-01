@@ -3,9 +3,6 @@
 # 设置各变量
 WSPATH=ab53b73f  # WS 路径前缀。(注意:伪装路径不需要 / 符号开始,为避免不必要的麻烦,请不要使用特殊符号.)
 UUID=dc908348-a71c-4918-80ce-23c8350305b8
-NEZHA_SERVER=server.nezha.org # 哪吒三个参数，不需要的话可以留空，删除或在这三行最前面加 # 以注释
-NEZHA_PORT=5555
-NEZHA_KEY=olx2IwyG7BZjylaW3H
 
 # 安装系统依赖
 check_dependencies() {
